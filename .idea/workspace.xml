@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83183fc3-2e69-4d38-b511-4cb897e6e847" name="Default Changelist" comment="" />
+    <list default="true" id="83183fc3-2e69-4d38-b511-4cb897e6e847" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/sanjay/interfaces/CustomSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/DefaultMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/DefaultMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/Residence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/Residence.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UjFK7qcuXE1TlhkyESz24LOdyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,7 +37,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DefaultMethods">
+  <component name="RunManager" selected="Application.CustomSort">
+    <configuration name="CustomSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanjay.interfaces.CustomSort" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanjay.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sanjay.interfaces.DefaultMethods" />
       <module name="Java" />
@@ -55,9 +77,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.DefaultMethods" />
+      <item itemvalue="Application.CustomSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomSort" />
         <item itemvalue="Application.DefaultMethods" />
       </list>
     </recent_temporary>
@@ -74,5 +98,16 @@
       <updated>1575862030167</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
