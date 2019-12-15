@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83183fc3-2e69-4d38-b511-4cb897e6e847" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sanjay/LambdaTests/LambdaUsecases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sanjay/methodreference/MethodReferencesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sanjay/innerclasses/ArrayMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sanjay/innerclasses/InnerClassTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/DefaultMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/DefaultMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/Residence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/sanjay/interfaces/Residence.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +36,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodReferencesTests">
+  <component name="RunManager" selected="Application.ArrayMinMax">
+    <configuration name="ArrayMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanjay.innerclasses.ArrayMinMax" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sanjay.innerclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sanjay.interfaces.CustomSort" />
       <module name="Java" />
@@ -52,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sanjay.interfaces.DefaultMethods" />
+    <configuration name="InnerClassTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanjay.innerclasses.InnerClassTests" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sanjay.interfaces.*" />
+          <option name="PATTERN" value="com.sanjay.innerclasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,16 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.sanjay.Main" />
-      <module name="Java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MethodReferencesTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sanjay.methodreference.MethodReferencesTests" />
       <module name="Java" />
@@ -102,18 +103,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DefaultMethods" />
       <item itemvalue="Application.CustomSort" />
       <item itemvalue="Application.LambdaUsecases" />
       <item itemvalue="Application.MethodReferencesTests" />
+      <item itemvalue="Application.InnerClassTests" />
+      <item itemvalue="Application.ArrayMinMax" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayMinMax" />
+        <item itemvalue="Application.InnerClassTests" />
         <item itemvalue="Application.MethodReferencesTests" />
         <item itemvalue="Application.LambdaUsecases" />
         <item itemvalue="Application.CustomSort" />
-        <item itemvalue="Application.DefaultMethods" />
       </list>
     </recent_temporary>
   </component>
