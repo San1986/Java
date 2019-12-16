@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83183fc3-2e69-4d38-b511-4cb897e6e847" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sanjay/innerclasses/ArrayMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sanjay/innerclasses/InnerClassTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sanjay/generics/GenericsTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayMinMax">
+  <component name="RunManager" selected="Application.GenericsTests">
     <configuration name="ArrayMinMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sanjay.innerclasses.ArrayMinMax" />
       <module name="Java" />
@@ -50,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sanjay.interfaces.CustomSort" />
+    <configuration name="GenericsTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sanjay.generics.GenericsTests" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sanjay.interfaces.*" />
+          <option name="PATTERN" value="com.sanjay.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,19 +102,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CustomSort" />
       <item itemvalue="Application.LambdaUsecases" />
       <item itemvalue="Application.MethodReferencesTests" />
       <item itemvalue="Application.InnerClassTests" />
       <item itemvalue="Application.ArrayMinMax" />
+      <item itemvalue="Application.GenericsTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsTests" />
         <item itemvalue="Application.ArrayMinMax" />
         <item itemvalue="Application.InnerClassTests" />
         <item itemvalue="Application.MethodReferencesTests" />
         <item itemvalue="Application.LambdaUsecases" />
-        <item itemvalue="Application.CustomSort" />
       </list>
     </recent_temporary>
   </component>
